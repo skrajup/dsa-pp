@@ -1,4 +1,5 @@
 # down top approach
+# time: n, space: 1
 class Solution:
     def climbStairs(self, n: int) -> int:
         # right = ways to reach top when at top
