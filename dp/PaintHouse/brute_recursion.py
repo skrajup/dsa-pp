@@ -1,4 +1,4 @@
-# time: 3^N
+# time: 2^N
 class Solution:
     def distinctColoring (self, N, r, g, b):
         # code here 
